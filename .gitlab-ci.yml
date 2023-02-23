@@ -1,0 +1,19 @@
+stages:
+  - triggers
+      
+trigger_front:
+  stage: triggers
+  trigger:
+    include: front/.gitlab-ci.yml
+  rules:
+    - if: $CI_COMMIT_BRANCH == "main" || $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+
+
+trigger_back:
+  stage: triggers
+  trigger:
+    include: back/.gitlab-ci.yml
+  rules:
+    - if: $CI_COMMIT_BRANCH == "main" || $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+
+
