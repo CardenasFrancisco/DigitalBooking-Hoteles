@@ -170,49 +170,6 @@ El objetivo fundamental del proyecto es el aprendizaje y la puesta en práctica 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<!-- CONTRIBUTORS -->
-<h2 id="contributors"> :scroll: Integrantes</h2>
-
-<p>
-
-### Equipo de Desarrollo
-
-  :boy: <b>Henry Salomón Suárez López</b> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>hessuarezlo@unal.edu.co</a> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/henrysalo">@henrysalomo</a> <br>
-
-  :boy: <b>Matias Fernandez</b> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>matias_fernandez92@hotmail.com</a> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/MatiasFz">@MatiasFz</a> <br>
-
-  :woman: <b>Jazmin Maldonado</b> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>jazminmald@gmail.com</a> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/jazminmald">@jazminmald</a> <br>
-  
-  :boy: <b>Facundo Ezequiel Wahren Westen</b> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>facundowahren@gmail.com</a> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/facundowesten">@facundowesten</a> <br>
-
-  :woman: <b>Natalia Varesi</b> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>varesinatalia@gmail.com</a> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/varesi-code">@varesi-code</a> <br>
-
-  :boy: <b> Felipe Verger</b> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>felipeverger123@gmail.com</a> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/felipeVerger">@felipeVerger</a> <br>
-
-### Product Owner:
-:woman: <b>Laura Padin</b> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>laura.padin@digitalhouse.com</a> <br>
-
-### Scrum Master:
-:woman: <b>Martina Raggio</b> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>martina.raggio@digitalhouse.com</a> <br>
-
-### Tech Lead:
-:boy: <b> Daniel Villajuan</b> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>daniel.villajuan@digitalhouse.com</a> <br>
-</p>
 
 <br>
 ✤ <i>Este es el proyecto final del primer año de cursada de Certified Tech Developer (May - Jul 2022), de <a href="https://www.digitalhouse.com/">Digital House</a><i>
