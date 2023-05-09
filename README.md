@@ -172,4 +172,4 @@ El objetivo fundamental del proyecto es el aprendizaje y la puesta en práctica 
 
 
 <br>
-✤ <i>Este es el proyecto final del primer año de cursada de Certified Tech Developer (May - Jul 2022), de <a href="https://www.digitalhouse.com/">Digital House</a><i>
+✤ <i>Este es el proyecto final del primer año de cursada de Certified Tech Developer, de <a href="https://www.digitalhouse.com/">Digital House</a><i>
