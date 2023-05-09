@@ -119,10 +119,10 @@ El objetivo fundamental del proyecto es el aprendizaje y la puesta en práctica 
 
 | Status | Milestone | Goals | ETA |
 | :---: | :--- | :---: | :---: |
-| 🚀 | **[Sprint 1](https://gl.deitech.online/ctd/proyecto-integrador-0522/0821-c1/grupo-10/-/milestones/1#tab-issues)** | 0 / 14 | jue May 26 2022 |
-| 🚀 | **[Sprint 2](https://gl.deitech.online/ctd/proyecto-integrador-0522/0821-c1/grupo-10/-/milestones/2#tab-issues)** | 0 / 0 | jue Jun 09 2022 |
-| 🚀 | **[Sprint 3](https://gl.deitech.online/ctd/proyecto-integrador-0522/0821-c1/grupo-10/-/milestones/3#tab-issues)** | 0 / 0 | jue jun 23 2022 |
-| 🚀 | **[Sprint 4](https://gl.deitech.online/ctd/proyecto-integrador-0522/0821-c1/grupo-10/-/milestones/4#tab-issues)** | 0 / 0 | jue jul 07 2022 |
+| 🚀 | **[Sprint 1](https://gl.deitech.online/ctd/proyecto-integrador-0522/0821-c1/grupo-10/-/milestones/1#tab-issues)** | 0 / 14 | jue  |
+| 🚀 | **[Sprint 2](https://gl.deitech.online/ctd/proyecto-integrador-0522/0821-c1/grupo-10/-/milestones/2#tab-issues)** | 0 / 0 | jue  |
+| 🚀 | **[Sprint 3](https://gl.deitech.online/ctd/proyecto-integrador-0522/0821-c1/grupo-10/-/milestones/3#tab-issues)** | 0 / 0 | jue  |
+| 🚀 | **[Sprint 4](https://gl.deitech.online/ctd/proyecto-integrador-0522/0821-c1/grupo-10/-/milestones/4#tab-issues)** | 0 / 0 | jue j |
 <p align="justify"> 
   Los objetivos de este proyecto son:
 <ol>
